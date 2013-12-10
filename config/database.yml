@@ -21,7 +21,7 @@ development:
   pool: 5
   username: kehxkqekqzqsgr
   password: w-OtadiiEs_VfYZAvzntyFzKqx
-
+  host: ec2-54-204-44-31.compute-1.amazonaws.com
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -51,6 +51,7 @@ test:
   pool: 5
   username: fngxalrfyfbnqc
   password: GRFQq0s04gqQ_DrSTX7d3TDaha
+  host: ec2-54-204-44-31.compute-1.amazonaws.com
 
 
 production:
@@ -60,4 +61,4 @@ production:
   pool: 5
   username: cqsffrqbrtkooz
   password: D1kXkFpm2Eel-8WQM_7kcOjOyK
-
+  host: ec2-54-204-44-31.compute-1.amazonaws.com
